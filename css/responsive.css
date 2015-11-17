@@ -1,0 +1,14 @@
+@media screen and (min-width: 800px) {
+  .intro {
+    margin: 15% 33%;
+  }
+
+  .logo {
+    font-size: 1.75em;
+    margin-top: 0;
+  }
+
+  .footer {
+    font-size: 1em;
+  }
+}
